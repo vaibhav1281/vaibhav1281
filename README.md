@@ -4,6 +4,8 @@
 
 <img align="left" width="47%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav1281&layout=compact'/>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav1281&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav1281" /> </p>
+
 <img align="left" src='https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white'/>
 <img align="left" src='https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white'/>
 <img align="left" src='https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white'/>
